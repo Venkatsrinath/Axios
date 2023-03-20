@@ -1,0 +1,14 @@
+.map_container{
+    /* display: flex;
+    flex-wrap: wrap; */
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    padding: 10px 10%;
+    justify-content: space-between;
+    padding-bottom: 40px;
+    padding: 5px;
+    border: 2px solid black;
+    /* display: none; */
+
+    
+}
